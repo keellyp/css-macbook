@@ -10,5 +10,5 @@ A fully CSS Macbook with fun options
 - Scroll on screen of the code
 
 ## TO-DO
-[] Add keydown event in Javascript
-[] Add responsive
+* [ ] Add keydown event in Javascript
+* [ ] Add responsive
